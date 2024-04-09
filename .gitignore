@@ -30,3 +30,5 @@ tests/test_models/__pycache__/test_amenity.cpython-310.pyc
 tests/test_models/__pycache__/test_base_model.cpython-310.pyc
 tests/test_models/__pycache__/__init__.cpython-310.pyc
 tests/test_models/__pycache__/__init__.cpython-310.pyc
+web_flask/__pycache__/__init__.cpython-310.pyc
+web_flask/__pycache__/0-hello_route.cpython-310.pyc
